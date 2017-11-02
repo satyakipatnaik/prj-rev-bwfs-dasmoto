@@ -1,8 +1,8 @@
 h1, h2, h3, p {
-    font-family: Helvetica;
+  font-family: Helvetica;
 }
 
-.header{
+.header {
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -10,25 +10,25 @@ h1, h2, h3, p {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
 
-.item{
+.brushes, .frames, .paint {
   font-size: 32px;
   color: white;
   font-weight: bold;
 }
 
-#brushes{
+.brushes {
   background-color: MediumSpringGreen;
 }
 
-#frames{
+.frames {
   background-color: LightCoral;
 }
 
-#paint{
+.paint {
   background-color: Skyblue;
 }
 
-.item_price{
-  color:blue;
+.item_price {
+  color: blue;
   font-weight: bold;
 }
